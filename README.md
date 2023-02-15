@@ -9,10 +9,12 @@
 ### - JavaScript | Vue.js 
 ### - HTML 
 ### - MySQL
+### - Linux
 
 ## Other: 
 ### - Java | Spring 
 ### - Git | Docker 
+### - Postman
 
 # Connect with me:
 
