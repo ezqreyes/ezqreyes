@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi👋,I'm Ezequiel 
+ 
+## I am a systems analyst and programmer :computer:
+ 
+# Languages and Tools:
+## Hard Skills:
+### - PHP | Laravel 
+### - CSS | Tailwind 
+### - JavaScript | Vue.js 
+### - HTML 
+### - MySQL
 
-<!--
-**ezqreyes/ezqreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other: 
+### - Java | Spring 
+### - Git | Docker 
 
-Here are some ideas to get you started:
+# Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mailbox_with_mail: ezqreyes@gmail.com
+:notebook: www.linkedin.com/in/ezqreyes
+
+
