@@ -5,14 +5,15 @@
 # Languages and Tools:
 ## Hard Skills:
 ### - PHP | Laravel 
-### - CSS | Tailwind 
-### - JavaScript | Vue.js 
+### - Java
 ### - HTML 
 ### - MySQL
 ### - Linux
+### - CSS | Tailwind 
+### - JavaScript | Vue.js 
 
-## Other: 
-### - Java | Spring 
+## Soft Skills: 
+### - Spring 
 ### - Git | Docker 
 ### - Postman
 
