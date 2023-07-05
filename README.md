@@ -9,12 +9,13 @@
 ### - HTML 
 ### - MySQL
 ### - Linux
-### - CSS | Tailwind 
-### - JavaScript | Vue.js 
+### - Git
+### - JavaScript 
 
 ## Soft Skills: 
-### - Spring 
-### - Git | Docker 
+### - CSS | Tailwind
+### - Vue.js 
+### - Docker 
 ### - Postman
 
 # Connect with me:
