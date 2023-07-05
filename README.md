@@ -6,11 +6,11 @@
 ## Hard Skills:
 ### - PHP | Laravel 
 ### - Java
+### - JavaScript 
 ### - HTML 
 ### - MySQL
 ### - Linux
 ### - Git
-### - JavaScript 
 
 ## Soft Skills: 
 ### - CSS | Tailwind
