@@ -9,11 +9,11 @@
 ### - JavaScript 
 ### - HTML 
 ### - MySQL
-### - Linux
 ### - Git
 
 ## Soft Skills: 
 ### - CSS | Tailwind
+### - Linux
 ### - Vue.js 
 ### - Docker 
 ### - Postman
