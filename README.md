@@ -10,13 +10,13 @@
 ### - HTML 
 ### - MySQL
 ### - Git
+### - Docker 
+### - Postman
 
 ## Soft Skills: 
 ### - CSS | Tailwind
 ### - Linux
 ### - Vue.js 
-### - Docker 
-### - Postman
 
 # Connect with me:
 
