@@ -8,15 +8,16 @@
 ### - Java
 ### - JavaScript 
 ### - HTML 
+### - CSS 
+### - Bootstrap
 ### - MySQL
 ### - Git
-### - Docker 
 ### - Postman
 
 ## Soft Skills: 
-### - CSS | Tailwind
+### - Docker 
+### - Tailwind
 ### - Linux
-### - Vue.js 
 
 # Connect with me:
 
